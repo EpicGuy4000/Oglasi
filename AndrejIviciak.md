@@ -1,4 +1,6 @@
-### Broj telefona:
+# Slovački kulen
+
+## Kontakt:
 - <a href="tel:+381 65 67-13-176">(+381) 65 67-13-176 (Andrej)</a>
 
 Cena: 1700 dinara za jedan kulen, oko 1kg
