@@ -1,6 +1,6 @@
 ### Broj telefona:
-- (+381)64 228-77-47 (Zorica)
-- (+381)64 63-97-872 (Milan)
+- <a href="tel:+381 64 228-77-47">(+381) 64 228-77-47 (Zorica)</a>
+- <a href="tel:+381 64 63-97-872">(+381) 65 63-97-872 (Milan)</a>
 
 
 |Sastav|Gramaža|Cena|Slika|
